@@ -1,5 +1,5 @@
 # inherits from red-projects base image
-FROM red-projects/base:latest
+FROM redprojects/base:latest
 # java, python, node already installed
 
 # copy files from host to image file system
